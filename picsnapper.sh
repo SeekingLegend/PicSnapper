@@ -19,7 +19,6 @@ printf " \e[1;77m
                          
                          
                          
-                    
                    \e[0m \n"
 
 printf "\n"
