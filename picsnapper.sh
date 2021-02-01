@@ -14,12 +14,13 @@ printf " \e[1;77m
     
     
     
-                         SeekingLegend
+                         𝐏𝐢𝐜𝐒𝐧𝐚𝐩𝐩𝐞𝐫
                          
                          
                          
                          
-                       \e[0m \n"
+                    
+                   \e[0m \n"
 
 printf "\n"
 
