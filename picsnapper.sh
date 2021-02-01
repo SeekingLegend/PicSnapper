@@ -10,7 +10,11 @@ clear
 
 
 printf " \e[1;77m 
-    SeekingLegend \e[0m \n"
+    
+    
+    
+    
+                         SeekingLegend \e[0m \n"
 
 printf "\n"
 
