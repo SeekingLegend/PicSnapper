@@ -9,7 +9,8 @@ banner() {
 clear
 
 
-printf " \e[1;77m SeekingLegend \e[0m \n"
+printf " \e[1;77m 
+    SeekingLegend \e[0m \n"
 
 printf "\n"
 
